@@ -54,19 +54,13 @@ cd 2025-frontend-ivoschugurensky
 
 ### Desarrollo Local
 
-Frontend:
+Levantar el proyecto:
 ```bash
-cd frontend
 npm install
 npm run dev
 ```
 
-Backend:
-```bash
-cd backend-petshop
-npm install
-npm start
-```
+
 
 ## 🏗 Estructura del Proyecto
 
